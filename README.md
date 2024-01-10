@@ -1,4 +1,4 @@
-# MyUniversalHeader - [click here preview](https://loganduran.github.io/MyUniversalHeader/index.html)
+# MyUniversalHeader - [Preview](https://loganduran.github.io/MyUniversalHeader/index.html)
 
 ![Alt text](image-1.png)
 
